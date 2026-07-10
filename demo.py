@@ -16,3 +16,6 @@ else:
     print(num, "is Not a Prime Number")
 
 # this change is did from chrom
+
+# this change is did it from macbook terminal#@
+
