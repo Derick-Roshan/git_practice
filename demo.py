@@ -14,10 +14,3 @@ if num > 1:
         print(num, "is Not a Prime Number")
 else:
     print(num, "is Not a Prime Number")
-
-<<<<<<< HEAD
-
-# this change is done from github!
-=======
-    #this change is done from terminal!
->>>>>>> dcb0b54 (did a change on demo.py)
